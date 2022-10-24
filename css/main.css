@@ -66,6 +66,7 @@
 .logo {
     margin-top: 20px;
     width: 80%;
+    filter: invert(100%);
 }
 
 .icon {
@@ -129,4 +130,3 @@
         border-radius: 50%;
     }
 }
-
